@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alekdima_)
 
-![Olossy GitHub stats](https://github-readme-stats.vercel.app/api?username=HallanChristian&show_icons=true&theme=cobalt)
+![aleksoncastro GitHub stats](https://github-readme-stats.vercel.app/api?username=AlêksonCastro&show_icons=true&theme=cobalt)
 
 ### Linguagens de Programação 
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
