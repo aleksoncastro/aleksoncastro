@@ -1,7 +1,7 @@
 #   Olá, meu nome é Alêkson Castro
 - Estudante do curso: Sistemas de Informação
 - Interessado na área de BackEnd
-- Melhor desenpenho em java
+- Melhor desempenho em java
 
 ## Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
