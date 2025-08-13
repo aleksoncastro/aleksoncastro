@@ -5,7 +5,7 @@
 
 ## Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alekdima_12)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alekdima_)
 
 ![Olossy GitHub stats](https://github-readme-stats.vercel.app/api?username=HallanChristian&show_icons=true&theme=cobalt)
 
